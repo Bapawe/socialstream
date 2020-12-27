@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Exceptions\Handlers;
+namespace App\Actions\Socialstream;
 
 use JoelButcher\Socialstream\Contracts\HandlesInvalidState;
 use Laravel\Socialite\Two\InvalidStateException;
